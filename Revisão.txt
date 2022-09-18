@@ -1,0 +1,4 @@
+Seu código está funcional, mas está um pouco bagunçado na organização.
+Tente alinhar os parâmetros na escrita, o <body> tem que abrir e fechar na mesma altura do texto, assim como outros comandos a fim de ficar mais claro de ler.
+Att.
+Professor Rodrigo Manika
